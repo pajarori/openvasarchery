@@ -1,7 +1,7 @@
 # openvasarchery
 setup network
 ```
-docker network create --driver bridge openvasd                                                                                               [4:12:39]
+docker network create --driver bridge openvasd
 ```
 run archerysec
 ```
